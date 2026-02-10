@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Bye For Now feat. GIO（feat. GIO）",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-10T12:58:32.118432Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bye for Now feat. GIO",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Bye_for_Now_feat._GIO_LGYankees.txt"
+    }
+  ]
+}
